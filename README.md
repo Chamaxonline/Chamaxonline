@@ -1,24 +1,24 @@
 <p align="center">
-  <a href="https://rupali-codes.netlify.app">
+  <a href="">
   <img src="https://user-images.githubusercontent.com/78981177/208293926-465377eb-4812-4c4a-b312-0e66281a697c.png" alt="header image"/>
   </a>
 </p>
 
 <p align="center"> 
-  <a href="https://twitter.com/rupali_codes">
+  <a href="#">
     <img src="https://img.shields.io/badge/Twitter-9e7661?style=for-the-badge"/>
     
   </a>
   
-   <a href="https://rupali-codes.netlify.app">
+   <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-7a5c4b?style=for-the-badge"/>
   </a>
   
-  <a href="https://www.linkedin.com/in/rupali-codes">
+  <a href="https://www.linkedin.com/in/chamath-viduranga-61bb5528/">
     <img src="https://img.shields.io/badge/LinkedIn-9e7661?style=for-the-badge"/>
   </a>
   
-   <a href="mailto:rupali7487@gmail.com">
+   <a href="mailto:chamathran@gmail.com">
     <img src="https://img.shields.io/badge/Email-7a5c4b?style=for-the-badge"/>
   </a>
  
@@ -30,12 +30,12 @@
 ### <p align="center">Technical Skills</p>
 
 <p align="center">
-  <a href="https://rupali-codes.netlify.app">
-    <img src="https://skillicons.dev/icons?i=js,mongodb,express,react,nodejs,typescript,next,mysql" />
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=js,jquery,react,typescript,nextjs,angular,nuxtjs,vercel" />
   </a>
 </p>
 <p align="center">
-  <a href="https://rupali-codes.netlify.app">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma,git,github,wordpress" />
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=cs,azure,dotnet,firebase,vscode,postman,git,github" />
   </a>
 </p>
