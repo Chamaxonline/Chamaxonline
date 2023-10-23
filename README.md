@@ -31,11 +31,11 @@
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=js,jquery,react,typescript,nextjs,angular,nuxtjs,vercel" />
+    <img src="https://skillicons.dev/icons?i=js,jquery,react,typescript,nextjs,angular,nuxtjs,vercel,python" />
   </a>
 </p>
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=cs,azure,dotnet,firebase,vscode,postman,git,github" />
+    <img src="https://skillicons.dev/icons?i=cs,azure,dotnet,firebase,vscode,postman,git,github,streamlit" />
   </a>
 </p>
